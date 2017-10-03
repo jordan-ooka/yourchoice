@@ -1,0 +1,75 @@
+body {
+  background-color: #d5d5d5;
+  background: url("http://kailuacinemas.com/assets/img/background.png");
+}
+
+.topimage {
+  margin-left: 220px;
+  margin-right: 220px;
+  background: url("http://kailuacinemas.com/assets/img/headerbkg.png");
+  background-size: 62.5rem;
+  align-items: center;
+  background-position: center center;
+  height: 15rem;
+  padding: 1rem;
+}
+
+.logo {
+  padding: 2rem;
+}
+
+.ui.borderless.middlemenu.menu {
+  margin-left: 220px;
+  margin-right: 220px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  height: 3rem;
+  background-color: #231f20;
+}
+
+.ui.borderless.middlemenu.menu div.ui.centered.grid.container {
+  margin-bottom: 0;
+}
+
+.ui.borderless.middlemenu.menu a.item {
+  padding: 0 16px;
+  color: #d5d5d5;
+
+}
+
+.ui.borderless.bottom.menu {
+  margin: 0 220px;
+  background-color: #231f20;
+}
+
+.ui.borderless.bottom.menu a.item {
+  color: #fff;
+}
+
+.ui.middlesection.container {
+  background-color: #d5d5d5;
+  margin: 0;
+}
+
+.ui.middlesection.container .ui.borderless.datemenu.menu {
+  background-color: #231f20;
+  color: #fff;
+  margin: 10px 50px;
+}
+
+.ui.middlesection.container div.item {
+  color: #fff;
+}
+
+.ui.middlesection.container a.browse.item {
+  color: black;
+  background-color: white;
+  padding: 0;
+}
+
+.ui.middlesection.container div.ui.grid.container {
+  margin: 0;
+}
+
+
